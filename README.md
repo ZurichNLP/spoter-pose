@@ -239,7 +239,29 @@ The **code** may be used for both academic and commercial purposes provided that
 
 ## Citation
 
-If you use this work, please cite the original SPOTER paper:
+If you use this work, please cite 
+
+```bibtex
+@misc{ingimundarson2026isolatedsignlanguagerecognition,
+      title={Isolated Sign Language Recognition for Icelandic Sign Language: Experiments in a Low-resource Setting}, 
+      author={Finnur Ágúst Ingimundarson and Guðný Björk Þorvaldsdóttir and Mathias Müller and Sarah Ebling},
+      year={2026},
+      eprint={2609.25862},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2609.25862},
+}
+
+@mastersthesis{ingimundarson-islr-itm,
+    author = {Finnur {\'A}g{\'u}st Ingimundarson},
+    title = {{Isolated Sign Language Recognition for Icelandic Sign Language (ITM): Experiments in a Low-resource Setting}},
+    school = {University of Zurich},
+    year = {2026},
+    url= {https://doi.org/10.5167/uzh-436015}
+}
+```
+
+and the original SPOTER paper:
 
 ```bibtex
 @InProceedings{Bohacek_2022_WACV,
